@@ -3,3 +3,4 @@ awscli
 Pylance 
 Bedrock
 langchain
+pkg-config
