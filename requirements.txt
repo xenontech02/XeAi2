@@ -1,8 +1,4 @@
-setuptools 
 boto3
 awscli
 Pylance 
-bedrock==0.1.0.dev10 --pre
-langchain
-pandas==1.5.3
-pip==24.2
+Bedrock
