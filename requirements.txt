@@ -1,4 +1,4 @@
-setuptools wheel
+setuptools 
 boto3
 awscli
 Pylance 
